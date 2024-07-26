@@ -1,78 +1,48 @@
 # Real-time Dashboard Development for AtliQ Grands
+[Link to Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/4)
+
+[Link to Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjA3MzRiOGItOTdjNi00ZmNhLTk3YjEtMjlmYzgxYTFhZDUxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
+
+Greetings, everyone!
+
+I'm thrilled to share my latest project in the hospitality domain, "Revenue Insights in the Hospitality Industry." This project demonstrates the power of data intelligence in driving business decisions.
 
 ## Problem Statement
-AtliQ Grands, a luxury/business hotel chain, is experiencing a decline in market share and revenue due to increased competition and poor management decisions. The management aims to adopt "Business and Data Intelligence" to address these issues and reverse the declining trend.
+AtliQ Grands, a luxury/business hotel chain, faced a decline in market share and revenue due to competition and management issues. They aimed to adopt "Business and Data Intelligence" to address these challenges.
 
 ## Task List
 1. **Data Collection and Preparation**:
-   - Collected data from various sources relevant to revenue management.
-   - Cleaned and transformed the data using Power Query.
-   - Created relationships between tables within Power Pivot.
+   - Collected and cleaned data from various sources.
+   - Created relationships using Power Pivot.
    
 2. **Dashboard Development**:
-   - Utilized Power BI for developing the dashboard.
-   - Measured key performance indicators (KPIs) such as Revenue, RevPAR, ADR, DSRN, Realization Percentage, Occupancy Rate, Cancellation Rate, and Average Rating.
-   - Created interactive visuals including:
-     - Revenue by platform
-     - Occupancy rate by day type (weekday vs weekend)
-     - Revenue by room type
-     - Bookings by status
-     - Key metrics table for properties
+   - Utilized Power BI to develop the dashboard.
+   - Measured KPIs: Revenue, RevPAR, ADR, DSRN, Realization Percentage, Occupancy Rate, Cancellation Rate, Average Rating.
+   - Created interactive visuals and filters.
 
-3. **Interactivity and Filters**:
-   - Provided filters for City, Room Type, Booking Status, and Date Range.
-   - Ensured visuals were interactive, allowing users to drill down into specific details.
-   - Added tooltips for more information on hover.
+## Dashboard Preview
+![Dashboard_Hospitality domain_Rutuja](https://github.com/user-attachments/assets/93367160-b336-4a5c-8ed6-5be0f93fd955)
 
 ## Learnings from This Project
-- **Technical Skills**:
-  - Advanced proficiency in Power BI for data visualization and dashboard development.
-  - Data cleaning, transformation, and modeling using Power Query and Power Pivot.
-  
-- **Core Skills**:
-  - Enhanced communication skills through stakeholder discussions and presentations.
-  - Developed an analytical mindset and gained a deeper business understanding.
+- **Technical Skills**: Power BI, data cleaning, transformation, and modeling.
+- **Core Skills**: Communication, analytical mindset, business understanding.
 
 ## Important Insights from This Project
-- The real-time insights provided by the dashboard enabled the Revenue team to take immediate actions that resulted in a 20% increase in revenue within a month.
-- Identified key areas of improvement, such as optimizing room pricing and enhancing marketing strategies for different booking platforms.
-- Improved visibility into key metrics allowed for more efficient management of resources and operations.
-- Facilitated data-driven decision-making, allowing management to make informed choices backed by real-time data.
+- Enabled immediate actions leading to a 20% revenue increase within a month.
+- Identified key areas for improvement.
+- Improved resource and operations management.
+- Facilitated data-driven decision-making.
 
 ## Features of the Dashboard
-1. **Comprehensive KPIs**:
-   - Tracks key performance indicators including Revenue, RevPAR, ADR, DSRN, Realization Percentage, Occupancy Rate, Cancellation Rate, and Average Rating.
-   
-2. **Interactive Visuals**:
-   - Revenue by platform
-   - Occupancy rate by day type (weekday vs weekend)
-   - Revenue by room type
-   - Bookings by status
-   - Key metrics table for properties
+1. **Comprehensive KPIs**
+2. **Interactive Visuals**
+3. **Filter Options**
+4. **Trend Analysis**
+5. **Tooltips and Drill-Downs**
 
-3. **Filter Options**:
-   - City Filter
-   - Room Type Filter
-   - Booking Status Filter
-   - Date Range Filter
-
-4. **Trend Analysis**:
-   - Revenue Trends
-   - Occupancy and ADR Trends
-
-5. **Tooltips and Drill-Downs**:
-   - Enhanced interactivity with tooltips providing additional information on hover and drill-down capabilities for deeper insights.
 
 ## Conclusion
-The real-time dashboard project for AtliQ Grands successfully addressed the issue of declining market share and revenue. By leveraging data intelligence, the management could make informed decisions that led to a significant positive impact on performance.
+This real-time dashboard project helped AtliQ Grands reverse their declining market share and revenue, demonstrating the power of data intelligence in making informed decisions.
 
-## How to Use This Repository
-1. Clone the repository: `git clone https://github.com/yourusername/atliq-hospitality-dashboard-powerbi.git`
-2. Open the Power BI file (`.pbix`) in Power BI Desktop.
-3. Connect to your data sources and refresh the data.
-4. Explore the dashboard and utilize the interactive features to gain insights.
-
-## Contact
-For any questions or collaborations, please contact me at [rutujac204@gmail.com].
-
----
+## Join the Conversation
+Your insights and perspectives are invaluable. Let's connect and push the boundaries of data-driven decision-making together!
